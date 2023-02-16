@@ -1,4 +1,4 @@
-#SMITE Device
+# SMITE Device
 
 Code for the SMITE Device (Raspberry Pi)
 
